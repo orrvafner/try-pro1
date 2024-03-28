@@ -1,0 +1,25 @@
+{
+    "people":
+    [
+        {
+            "name" : "Orr",
+            "age" : "19",
+            "nickname" : "Orrchick" 
+        },
+        {
+            "name" : "Tali",
+            "age" : "47",
+            "nickname" : "cat"
+        },
+        {
+            "name" : "Zvika",
+            "age" : "50",
+            "nickname" : "Zvi"
+        },
+        {
+            "name" : "May",
+            "age" : "15",
+            "nickname" : "Makosh"
+        }
+    ]
+}
