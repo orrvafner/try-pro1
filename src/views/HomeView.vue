@@ -6,6 +6,9 @@
     <br>
     nickname: {{person.nickname}}
   </div>
+  <div>
+    try
+  </div>
 </template>
 
 <script>
